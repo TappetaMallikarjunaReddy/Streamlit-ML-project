@@ -81,7 +81,7 @@ ML_Assignment_2/
 1. Clone the repository:
 
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/TappetaMallikarjunaReddy/Streamlit-ML-project.git
    cd ML_Assignment_2
    ```
 
