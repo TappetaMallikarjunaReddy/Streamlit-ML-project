@@ -22,8 +22,8 @@ For model training, the diagnosis labels are encoded as `0` for benign and `1` f
 
 ## 3. Repository and Application Links
 
-- **GitHub Repository:** https://github.com/TappetaMallikarjunaReddy/Streamlit-ML-project.git
-- **Live Streamlit App:** [Add your deployed Streamlit app URL]
+- **GitHub Repository:** https://github.com/TappetaMallikarjunaReddy/Streamlit-ML-project
+- **Live Streamlit App:** https://app-ml-project-aam7zjpcaa2qbzp89nzje7.streamlit.app/
 
 ## 4. Models and Evaluation
 
