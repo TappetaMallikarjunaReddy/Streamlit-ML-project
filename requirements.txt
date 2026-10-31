@@ -1,0 +1,8 @@
+streamlit==1.56.0
+protobuf==4.25.9
+scikit-learn
+numpy
+pandas
+joblib
+matplotlib
+seaborn
